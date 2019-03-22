@@ -13,3 +13,17 @@ tbody tr:nth-child(odd) {
 .year {
   width: 7em;
 }
+
+.notes {
+  width: 16em;
+}
+
+.distance {
+  width: 6em;
+}
+
+table {
+  min-width: 50em;
+}
+
+@media
